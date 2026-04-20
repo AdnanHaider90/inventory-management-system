@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Compiled class files
+*.class
+bin/
+
+# System files
+.DS_Store
+Thumbs.db
