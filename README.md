@@ -27,6 +27,7 @@ to demonstrate core backend and database skills.
 
 ## Project Structure
 
+```
 InventoryManagementSystem/
 ├── src/
 │   └── com/ims/
@@ -37,9 +38,11 @@ InventoryManagementSystem/
 │       └── main/         → Main.java
 ├── lib/
 │   └── mysql-connector-j-x.x.x.jar
-└── db/
-└── schema.sql
----
+├── db/
+│   └── schema.sql
+├── screenshots/
+└── README.md
+```
 
 ## Database Setup
 
